@@ -104,3 +104,16 @@
 .cursor {
   animation: blink .75s step-end infinite;
 }
+
+/* cambiar color al scroll */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  background-color: #dddddd;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0e7490;
+  border-radius: 5px;
+}
