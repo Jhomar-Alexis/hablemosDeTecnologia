@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col items-center py-10 h-[185vh] md:h-[140vh] lg:h-[145vh] xl:h-[145vh] bg-gray-200">
+    <div class="flex flex-col items-center py-10 h-[195vh] md:h-[140vh] lg:h-[145vh] xl:h-[145vh] bg-gray-200">
         <h1 class="text-black text-4xl lg:text-6xl font-bold mb-10 text-center">
             Usos de la Tecnología
         </h1>
