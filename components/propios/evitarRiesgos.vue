@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col p-10 h-[275vh] md:h-[350vh] lg:h-[180vh] xl:h-[250vh] bg-gray-200">
+    <div class="flex flex-col p-10 bg-gray-200">
         <h1 class="text-black text-4xl lg:text-6xl font-bold mb-10 text-center">
             Practicas para evitar riesgos de las TIC
         </h1>
