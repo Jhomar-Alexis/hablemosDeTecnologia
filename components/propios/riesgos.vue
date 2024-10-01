@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col p-10">
-        <h1 class="text-black text-4xl lg:text-4xl font-bold mb-10 text-center">
+        <h1 class="text-black text-2xl md:text-4xl font-[900] mb-10 text-center">
             Riesgos de las TIC
         </h1>
         <div v-for="(item, index) in items" :key="index"

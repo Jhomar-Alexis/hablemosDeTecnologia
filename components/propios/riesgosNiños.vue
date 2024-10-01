@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col items-center py-10">
-        <h1 class="text-black text-4xl lg:text-4xl font-bold mb-10 text-center">
+        <h1 class="text-black text-2xl md:text-4xl font-[900] mb-10 text-center">
             Practicas para evitar riesgos de  <br> las TIC en niños menores de edad
         </h1>
         <div class="relative w-full grid justify-center items-center">

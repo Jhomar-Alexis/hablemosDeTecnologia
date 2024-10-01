@@ -1,9 +1,9 @@
 <template>
     <div class="flex flex-col p-10">
-        <h1 class="text-black text-4xl lg:text-4xl font-bold mb-10 text-center">
+        <h1 class="text-black text-2xl md:text-4xl font-[900] mb-10 text-center">
             ¿Cuáles son los beneficios y riesgos <br> del uso de Internet en la sociedad actual?
         </h1>
-        <div class="flex flex-col lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4">
+        <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4">
             <!-- Caja de texto -->
             <div class=" w-full md:w-1/3 lg:w-1/2 xl:w-1/3 bg-cyan-700 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black">
                 <p class="text-white lg:text-2xl">El Internet representa un universo infinito de oportunidades para la

@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col items-center bg-gray-200">
         <div class="md:w-1/2">
-            <p class="text-black text-3xl lg:text-3xl text-center p-4" style="font-weight: 900;">
+            <p class="text-black text-2xl md:text-3xl text-center p-4" style="font-weight: 900;">
                 “Si tu privacidad quieres cuidar,
                 un buen uso de las TIC debes empezar a realizar.”
             </p>

@@ -13,7 +13,7 @@
                     :class="presentationText.class" class="text-center lg:text-left text-black">
                     {{ presentationText.text }}
                 </h1>
-                <h1 class="text-2xl sm:text-3xl text-center lg:text-left xl:text-[40px] font-bold">
+                <h1 class="text-2xl sm:text-3xl text-center lg:text-left xl:text-[40px] font-[900]">
                     <PropiosEscribirEffect />
                 </h1>
             </div>
@@ -51,7 +51,7 @@ const botones = [
 const presentationTexts = [
     {
         text: ' Nos Informamos sobre:',
-        class: 'text-2xl sm:text-3xl xl:text-[40px] text-gray-500 font-bold',
+        class: 'text-2xl sm:text-3xl xl:text-[40px] text-gray-500 font-[900]',
     },
     {
         text: 'El BUEN USO',
