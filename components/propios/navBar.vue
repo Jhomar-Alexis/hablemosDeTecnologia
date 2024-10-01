@@ -62,6 +62,11 @@ const links = [
         name: 'Prevención',
         target: 'prevencion'
     },
+    {
+        icon: 'i-mdi-shield-half-full',
+        name: 'Prevención/Niños',
+        target: 'prevencionniños'
+    },
 ]
 
 const btn = ref(null)

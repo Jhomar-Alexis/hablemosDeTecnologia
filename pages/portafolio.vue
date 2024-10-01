@@ -21,7 +21,7 @@
         <div id="prevencion" class="z-0">
             <PropiosEvitarRiesgos />
         </div>
-        <div class="z-0">
+        <div id="prevencionniños" class="z-0">
             <PropiosRiesgosNiños />
         </div>
         <div class="z-0">
