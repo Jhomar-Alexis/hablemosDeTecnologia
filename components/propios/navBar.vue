@@ -78,14 +78,3 @@ const scrollTo = (target) => {
     element.scrollIntoView({ behavior: 'smooth' });
 }
 </script>
-
-<!-- methods: {
-scrollTo(target) {
-const element = document.getElementById(target);
-element.scrollIntoView({ behavior: 'smooth' });
-}
-} -->
-<!-- <a v-for="link in links" :key="link" @click.prevent="scrollTo(link.target)">
-    <Icon :name="link.icon" class=" text-2xl sm:text-xl" />
-    <br /> {{ link.name }}
-  </a> -->

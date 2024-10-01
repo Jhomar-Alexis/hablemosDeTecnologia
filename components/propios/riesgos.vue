@@ -1,16 +1,16 @@
 <template>
     <div class="flex flex-col p-10">
-        <h1 class="text-black text-4xl lg:text-6xl font-bold mb-10 text-center">
+        <h1 class="text-black text-4xl lg:text-4xl font-bold mb-10 text-center">
             Riesgos de las TIC
         </h1>
         <div v-for="(item, index) in items" :key="index"
             class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4">
             <!-- Caja de texto -->
-            <div class="w-full md:w-1/3 lg:w-1/2 xl:w-1/3 bg-cyan-700 p-4 rounded-lg shadow-xl">
+            <div class="w-full md:w-1/3 lg:w-1/2 xl:w-1/3 bg-cyan-700 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black">
                 <p class="text-white lg:text-2xl">{{ item.text }}</p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/6 h-1/4 rounded-lg border-4 border-cyan-700 shadow-xl">
+            <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/6 h-1/4 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
                 <img :src="item.imageUrl" class="w-full h-auto object-cover" />
             </div>
         </div>
