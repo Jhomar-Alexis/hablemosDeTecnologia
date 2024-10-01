@@ -5,14 +5,12 @@
             <img :src="item" class="object-cover h-4/5 w-4/5 mx-auto rounded-lg border-4 border-cyan-700"
                 draggable="false">
             <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
-          text-white text-lg flex flex-col items-center justify-center">
+          text-gray-800 text-lg flex flex-col items-center justify-center">
                 <div class="text-center">
-                    <span class="font-bold lg:text-[90px] md:text-[60px] text-[40px]"
-                        style="font-weight: 900;">LA</span>
+                    <span class="lg:text-[90px] md:text-[60px] text-[36px]" style="font-weight: 900;">LA</span>
                 </div>
                 <div class="text-center mt-4">
-                    <span class="font-bold lg:text-[90px] md:text-[60px] text-[40px]"
-                        style="font-weight: 900;">TECNOLÓGIA</span>
+                    <span class="lg:text-[90px] md:text-[60px] text-[36px]" style="font-weight: 900;">TECNOLÓGIA</span>
                 </div>
             </div>
         </div>
