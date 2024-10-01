@@ -28,7 +28,7 @@
     <div ref="sidebar"
         class="hidden sm:flex lg:items-center sm:-mt-[3.2rem] pt-2 sm:pt-0 sm:pl-6 md:pl-0 justify-center">
         <div class="grid sm:flex gap-4 lg:gap-8 border sm:border-none font-bold bg-gray-200
-            sm:p-0 shadow-[0_0_20px_0] sm:shadow-none p-20 rounded-3xl text-center text-black">
+            sm:p-0 shadow-[0_0_20px_0] sm:shadow-none p-20 rounded-3xl text-center text-black" style="cursor: pointer;">
             <a v-for="link in links" :key="link" @click.prevent="scrollTo(link.target)">
                 <Icon :name="link.icon" class=" text-2xl sm:text-xl" />
                 <br /> {{ link.name }}
