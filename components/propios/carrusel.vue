@@ -2,8 +2,7 @@
     <UCarousel ref="carouselRef" v-slot="{ item }" :items="items" :ui="{ item: 'basis-full' }"
         class="overflow-hidden relative bg-gray-200" indicators>
         <div class="relative h-[100vh] w-full flex justify-center items-center">
-            <img :src="item" class="object-cover h-4/5 w-4/5 mx-auto rounded-lg border-4 border-cyan-700"
-                draggable="false">
+            <img :src="item" class="h-4/5 w-4/5 mx-auto rounded-lg border-8 border-cyan-700" draggable="false">
             <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
           text-gray-800 text-lg flex flex-col items-center justify-center">
                 <div class="text-center">
