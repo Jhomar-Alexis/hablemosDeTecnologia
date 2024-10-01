@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col p-10">
+    <div class="flex flex-col py-10">
         <h1 class="text-black text-4xl lg:text-6xl font-bold mb-10 text-center">
             Riesgos de las TIC
         </h1>

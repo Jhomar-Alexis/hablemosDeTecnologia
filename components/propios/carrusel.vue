@@ -29,11 +29,11 @@ onMounted(() => {
           text-white text-lg flex flex-col items-center justify-center">
                 <div class="text-center">
                     <span class="font-bold lg:text-[90px] md:text-[60px] text-[40px]"
-                        style=" -webkit-text-stroke: 4px black; font-weight: 900;">LA</span>
+                        style="font-weight: 900;">LA</span>
                 </div>
                 <div class="text-center mt-4">
                     <span class="font-bold lg:text-[90px] md:text-[60px] text-[40px]"
-                        style=" -webkit-text-stroke: 4px black; font-weight: 900;">TECNOLÓGIA</span>
+                        style="font-weight: 900;">TECNOLÓGIA</span>
                 </div>
             </div>
         </div>
