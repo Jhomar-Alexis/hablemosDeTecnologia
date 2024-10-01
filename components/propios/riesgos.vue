@@ -10,8 +10,8 @@
                 <p class="text-white lg:text-2xl">{{ item.text }}</p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/6 h-1/4 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img :src="item.imageUrl" class="w-full h-auto object-cover" />
+            <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/6 h-1/4 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img :src="item.imageUrl" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
         </div>
     </div>

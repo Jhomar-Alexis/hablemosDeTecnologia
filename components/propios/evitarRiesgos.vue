@@ -9,14 +9,14 @@
                 <p class="text-white lg:text-2xl">No facilitar datos personales. </p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/18.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/18.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
         </div>
         <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4">
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/23.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/23.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
             <!-- Caja de texto -->
             <div class=" w-full md:w-1/3 lg:w-1/2 xl:w-1/3 bg-cyan-700 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black">
@@ -32,14 +32,14 @@
                     demasiado buenas para ser reales. </p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/24.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/24.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
         </div>
         <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4">
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/21.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/21.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
             <!-- Caja de texto -->
             <div class=" w-full md:w-1/3 lg:w-1/2 xl:w-1/3 bg-cyan-700 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black">
@@ -55,14 +55,14 @@
                 </p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/20.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/20.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
         </div>
         <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4">
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/22.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/22.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
             <!-- Caja de texto -->
             <div class=" w-full md:w-1/3 lg:w-1/2 xl:w-1/3 bg-cyan-700 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black">
@@ -78,8 +78,8 @@
                 </p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/19.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/19.jpeg" class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
         </div>
     </div>

@@ -12,8 +12,9 @@
                 </p>
             </div>
             <!-- Caja de imagen -->
-            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg border-4 border-cyan-700 shadow-[0_0_12px_0] shadow-black">
-                <img src="~/public/images/25.jpeg" class="w-full h-auto object-cover" />
+            <div class="w-1/2 lg:w-1/6 md:w-1/3 rounded-lg shadow-[0_0_12px_0] shadow-black">
+                <img src="~/public/images/25.jpeg"
+                    class="w-full h-auto object-cover rounded-lg border-4 border-cyan-700" />
             </div>
         </div>
     </div>
