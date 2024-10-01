@@ -27,5 +27,8 @@
         <div class="z-0">
             <PropiosFraseMotivacion />
         </div>
+        <div class="z-0">
+            <PropiosFooter />
+        </div>
     </div>
 </template>
