@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col items-center bg-gray-200">
+    <div class="flex flex-col items-center p-8 bg-gray-200">
         <div class="md:w-1/2">
             <p class="text-black text-2xl md:text-3xl text-center p-4" style="font-weight: 900;">
                 “Si tu privacidad quieres cuidar,
