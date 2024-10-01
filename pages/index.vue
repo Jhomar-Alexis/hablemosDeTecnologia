@@ -44,7 +44,7 @@ const botones = [
     {
         name: 'Acceder',
         icon: 'i-ph-arrow-right',
-        link: '/portafolio',
+        link: '/tic',
     },
 ]
 
