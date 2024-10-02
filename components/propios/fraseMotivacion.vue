@@ -8,7 +8,7 @@
         </div>
         <div class="flex items-center justify-center pb-4">
             <img src="~/public/images/portada2.jpeg"
-                class="w-1/2 h-auto border-4 radius-lg rounded-lg border-cyan-700 object-cover shadow-[0_0_10px_0] shadow-black" />
+                class="w-full h-auto border-8 radius-lg rounded-lg border-cyan-700 object-cover shadow-[0_0_10px_0] shadow-black" />
         </div>
     </div>
 </template>
